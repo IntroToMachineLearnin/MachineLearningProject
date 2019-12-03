@@ -15,4 +15,10 @@
 - Instead of trying to compare the different datasets of the group members. 
 - We instead went for an abstraction of information from the dataset on Kaggle.
 https://www.kaggle.com/geomack/spotifyclassification
-- After learning more information on how we could approach this dataset. We settled on Decision Tree Machine Learning,
+- After learning more information on how we could approach this dataset. 
+- We settled on Decision Tree Machine Learning as that peaked our interest collectively.
+
+# Note: We did our project on Google Colab
+- It was the easiest way to ensure that everyone was able to pitch in on their part for the project.
+- Google Colab provided a easy and safe enviornment, where we didn't have to do too much troubleshooting as most of the enviornment and extensions were already installed and ready to use.
+- To avoid conflicts of different Operating Systems. Macs vs Windows 10
