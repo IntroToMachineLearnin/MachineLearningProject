@@ -9,3 +9,6 @@
 - We were unable to get our own personal data from Spotify itself.
 - It could take upwards of 30 days for it to be collected by Spotify and then delievered to us.
 
+# CHANGE OF PLANS 
+- So after discovering that it was gonna take too long to get our personal data from Spotify.
+- We ended up using a dataset from Kaggle instead as that was readily avaliable.
