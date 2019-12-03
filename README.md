@@ -18,7 +18,7 @@ https://www.kaggle.com/geomack/spotifyclassification
 - After learning more information on how we could approach this dataset. 
 - We settled on Decision Tree Machine Learning as that peaked our interest collectively.
 
-# Note: We did our project on Google Colab
+# Note 1: We did our project on Google Colab
 - It was the easiest way to ensure that everyone was able to pitch in on their part for the project.
 - Google Colab provided a easy and safe enviornment, where we didn't have to do too much troubleshooting as most of the enviornment and extensions were already installed and ready to use.
 - To avoid conflicts of different Operating Systems. Macs vs Windows 10
@@ -26,7 +26,7 @@ https://www.kaggle.com/geomack/spotifyclassification
 - Here is the link to our Decision Tree Machine Learning Project
 - https://colab.research.google.com/drive/13KRVXzEEF4Z-R6sSnT0o0FbNsElUyY83
 
-# Notes:
+# Notes 2:
 # - Google Colab is where we did our project on
 - There are 2 versions of the same pythonnotebook
   1) The Github version has everything that we did and the graphs of our Decision Tree Machine Learning Model
