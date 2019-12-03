@@ -22,3 +22,6 @@ https://www.kaggle.com/geomack/spotifyclassification
 - It was the easiest way to ensure that everyone was able to pitch in on their part for the project.
 - Google Colab provided a easy and safe enviornment, where we didn't have to do too much troubleshooting as most of the enviornment and extensions were already installed and ready to use.
 - To avoid conflicts of different Operating Systems. Macs vs Windows 10
+- Google Colab is amazing! we should have used this for the class!
+- Here is the link to our Decision Tree Machine Learning Project
+- https://colab.research.google.com/drive/13KRVXzEEF4Z-R6sSnT0o0FbNsElUyY83
