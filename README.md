@@ -12,3 +12,7 @@
 # CHANGE OF PLANS 
 - So after discovering that it was gonna take too long to get our personal data from Spotify.
 - We ended up using a dataset from Kaggle instead as that was readily avaliable.
+- Instead of trying to compare the different datasets of the group members. 
+- We instead went for an abstraction of information from the dataset on Kaggle.
+https://www.kaggle.com/geomack/spotifyclassification
+- After learning more information on how we could approach this dataset. We settled on Decision Tree Machine Learning,
