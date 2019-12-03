@@ -6,3 +6,6 @@
 - Emperically compare the dataset of each group member from one another to learn how and if our music taste was the same numerically.
 
 # UPDATE!
+- We were unable to get our own personal data from Spotify itself.
+- It could take upwards of 30 days for it to be collected by Spotify and then delievered to us.
+
